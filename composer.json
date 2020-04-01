@@ -1,0 +1,15 @@
+{
+    "name": "afroraydude/ucrm-datausage-plugin",
+    "description": "Takes data usage and limits and uses that to determine if an email should be sent or if data should be charged for",
+    "type": "project",
+    "require": {
+        "ubnt/ucrm-plugin-sdk": "^0.8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "afroraydude",
+            "email": "thomasray0@gmail.com"
+        }
+    ]
+}
