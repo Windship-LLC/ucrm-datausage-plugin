@@ -1,5 +1,5 @@
 {
-    "name": "afroraydude/ucrm-datausage-plugin",
+    "name": "windship/ucrm-datausage-plugin",
     "description": "Takes data usage and limits and uses that to determine if an email should be sent or if data should be charged for",
     "type": "project",
     "require": {
@@ -9,7 +9,7 @@
     "authors": [
         {
             "name": "afroraydude",
-            "email": "thomasray0@gmail.com"
+            "email": "afroraydude@protonmail.com"
         }
     ]
 }
